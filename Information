@@ -1,0 +1,19 @@
+<html>
+  <body>
+  <main id="main">
+    <title> Golden Retriever</title>
+    <h1 id="title">Golden Retriever</h1>
+    <hr>
+    <div id="img-div">
+    <img id="image" src="https://myanimals.com/es/wp-content/uploads/2014/12/golden-retriever.jpg" alt="Golden Retriever descansando">                              <br>
+      <figcaption id="img-caption"> Imagen obtenida de https://myanimals.com/es/el-maravilloso-golden-retriever/</figcaption>
+   </div>
+  <hr><p id="tribute-info"> El <b>Golden Retriever</b>, también conocido como cobrador dorado es originario de Reino Unido, más concretamente de Escocia. Nace alrededor del 1850 con la búsqueda de un perro cobrador y levantador que fuera capaz de no lastimar a la presa. Por ese motivo observamos en él habilidades de caza. También es conocido como perdiguero dorado. El golden retriever es famoso por su obediencia. Le gusta que sus humanos estén contentos con él y tiene un pronunciado afán de aprendizaje. Se adapta con mucha facilidad a una rutina y le encanta participar en todas las actividades familiares. Es uno de los perros de familia por excelencia en el mundo entero. Su bondadosa y calmada forma de ser, unida al carácter cariñoso y juguetón, hace que sea muy popular, sobre todo en las familias con niños. Además, convive con otros animales domésticos en armonía.
+
+Algunos cuidadores de retriever bromean con que los golden son tan amables que en lugar de echar a un ladrón le ayudarían a sacar las cosas de valor de la casa. Estos canes no tienen un instinto de protección muy desarrollado. Es cierto que no son unos buenos perros guardianes, pero su afán por trabajar, su inteligencia y docilidad les capacitan como excelentes perros guía, de terapia o de asistencia. La combinación del buen olfato y el instinto de caza los hacen aptos para participar en despliegues policiales y de salvamento, ya sea como perros de rescate o de detección de explosivos o mercancías ilegales. </p>
+  </main>
+  </body>
+  <hr>
+  <footer>
+  <p>Para más información sobre los perros Golden Retriever, acceder <a id="tribute-link" target="_blank" href="https://www.zooplus.es/magazine/perros/razas-de-perro/golden-retriever">aquí.</a>                           </footer>
+</html>
